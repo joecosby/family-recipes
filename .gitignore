@@ -1,0 +1,4 @@
+*.ignore
+*.ignores
+log/
+notes/
